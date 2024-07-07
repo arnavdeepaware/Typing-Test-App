@@ -23,4 +23,4 @@ CSS
 JavaScript
 
 # Try It Out:
-[Live Demo]([url](https://668aea7f101d2c4477ef2274--arnavdeepaware-typing-test.netlify.app/))
+([Live Demo](https://668aea7f101d2c4477ef2274--arnavdeepaware-typing-test.netlify.app/))
