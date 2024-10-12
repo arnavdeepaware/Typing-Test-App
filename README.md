@@ -21,8 +21,8 @@ Check out the live demo of the app [here](https://arnavdeepaware-typing-test.net
 - **Custom Text**: Let users input their own text to practice typing.
   
 ## Screenshots
-![Typing Test App Screenshot](your-screenshot-url.png)
-
+![Typing Test App Screenshots](Start.png)
+![Typing Test App Screenshots](During.png)
 ## Installation
 
 ### Prerequisites
